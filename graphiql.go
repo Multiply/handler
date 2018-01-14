@@ -5,7 +5,7 @@ import (
 	"html/template"
 	"net/http"
 
-	"github.com/graphql-go/graphql"
+	"github.com/multiply/graphql"
 )
 
 // page is the page data structure of the rendered GraphiQL page
